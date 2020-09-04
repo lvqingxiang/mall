@@ -1,0 +1,128 @@
+{
+  "id": "2036183",
+  "name": "mall",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "30444",
+      "name": "cascades",
+      "font_class": "cascades",
+      "unicode": "e67c",
+      "unicode_decimal": 59004
+    },
+    {
+      "icon_id": "33515",
+      "name": "profile",
+      "font_class": "profile",
+      "unicode": "e6b7",
+      "unicode_decimal": 59063
+    },
+    {
+      "icon_id": "33518",
+      "name": "discover_fill",
+      "font_class": "discoverfill",
+      "unicode": "e6ba",
+      "unicode_decimal": 59066
+    },
+    {
+      "icon_id": "36020",
+      "name": "goods",
+      "font_class": "goods",
+      "unicode": "e6cd",
+      "unicode_decimal": 59085
+    },
+    {
+      "icon_id": "1493291",
+      "name": "cart_light",
+      "font_class": "cart_light",
+      "unicode": "e7d6",
+      "unicode_decimal": 59350
+    },
+    {
+      "icon_id": "1512549",
+      "name": "global_light",
+      "font_class": "global_light",
+      "unicode": "e7ea",
+      "unicode_decimal": 59370
+    },
+    {
+      "icon_id": "1814152",
+      "name": "dress",
+      "font_class": "dress",
+      "unicode": "e7f1",
+      "unicode_decimal": 59377
+    },
+    {
+      "icon_id": "1814153",
+      "name": "coffee",
+      "font_class": "coffee",
+      "unicode": "e7f2",
+      "unicode_decimal": 59378
+    },
+    {
+      "icon_id": "1814154",
+      "name": "sports",
+      "font_class": "sports",
+      "unicode": "e7f3",
+      "unicode_decimal": 59379
+    },
+    {
+      "icon_id": "9782905",
+      "name": "mall_light",
+      "font_class": "mall_light",
+      "unicode": "e81b",
+      "unicode_decimal": 59419
+    },
+    {
+      "icon_id": "9782906",
+      "name": "mall_fill_light",
+      "font_class": "mall_fill_light",
+      "unicode": "e81c",
+      "unicode_decimal": 59420
+    },
+    {
+      "icon_id": "29947",
+      "name": "search",
+      "font_class": "search",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    },
+    {
+      "icon_id": "29952",
+      "name": "unfold",
+      "font_class": "unfold",
+      "unicode": "e661",
+      "unicode_decimal": 58977
+    },
+    {
+      "icon_id": "41957",
+      "name": "fold",
+      "font_class": "fold",
+      "unicode": "e6de",
+      "unicode_decimal": 59102
+    },
+    {
+      "icon_id": "1596780",
+      "name": "back_android_light",
+      "font_class": "back_android_light",
+      "unicode": "e7ed",
+      "unicode_decimal": 59373
+    },
+    {
+      "icon_id": "2768740",
+      "name": "settings_light",
+      "font_class": "settings_light",
+      "unicode": "e7f9",
+      "unicode_decimal": 59385
+    },
+    {
+      "icon_id": "9782904",
+      "name": "return",
+      "font_class": "return",
+      "unicode": "e81a",
+      "unicode_decimal": 59418
+    }
+  ]
+}
